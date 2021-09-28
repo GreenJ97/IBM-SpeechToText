@@ -503,8 +503,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8cf6280a7206e22439331c590c110111, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _serviceUrl: https://api.eu-gb.speech-to-text.watson.cloud.ibm.com/instances/a91c468b-aba6-4e78-b0bc-b9318b78ec47
-  _iamApikey: OGeFLiyZPTRUy4WAZNA4pbUrEIOekCxDGnJO6kBFyHj8
+  _serviceUrl: 
+  _iamApikey: 
   _recognizeModel: en-GB_BroadbandModel
 --- !u!4 &1091714481
 Transform:
